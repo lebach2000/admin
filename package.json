@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "cloudinary-react": "^1.2.1",
-    "firebase": "^5.11.1",
+    "firebase": "^10.9.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-firebase-file-uploader": "^2.4.3",
